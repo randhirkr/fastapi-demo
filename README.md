@@ -1,4 +1,5 @@
 # fastapi-demo
+This is a sample containerized fastapi application - tested locally on minikube(kubernetes).
 
 ### Create docker image and load into minikube
 ```
